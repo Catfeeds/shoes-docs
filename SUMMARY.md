@@ -18,7 +18,7 @@
   * [添加经销商](jing-xiao-shang/tian-jia-jing-xiao-shang.md)
 * [供应商](gong-ying-shang.md)
   * [分类](gong-ying-shang/fen-lei.md)
-  * 添加供应商
+  * [添加供应商](gong-ying-shang/tian-jia-gong-ying-shang.md)
 * [数据管理](数据管理.md)
   * [订单数据管理](订单数据管理.md)
   * [财务数据管理](财务数据管理.md)
