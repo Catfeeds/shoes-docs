@@ -8,6 +8,7 @@
   * [门店与多门店](dian-pu.md)
   * [仓库](cang-ku.md)
   * [收款账户](cai-wu-zi-liao/shou-kuan-zhang-hu.md)
+  * [快递基础](kuai-di-ji-chu.md)
   * [微商城](wei-xin-shang-cheng.md)
   * [微信和企业微信](wei-xin-he-qi-ye-wei-xin.md)
 * [客户](ke-hu.md)
