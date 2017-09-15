@@ -20,5 +20,5 @@
 
 点击左边导航【门店管理】—【门店】，针对每一个门店，指定该门店支持的收款账户\(参考添加【[收款账户](/cai-wu-zi-liao/shou-kuan-zhang-hu.md)】\)。点击【收款账户】，如下图：
 
-![](/assets/mdgl-skzh-1.png)![](/assets/mdgl-skzh-2.png)
+![](/assets/mdgl-skzh-1.png)![](/assets/mdgl-skzh-2.png)![](/assets/ckgl-ckgl-cgry-2.png)
 
