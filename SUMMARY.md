@@ -20,7 +20,7 @@
   * [分类](gong-ying-shang/fen-lei.md)
   * [添加供应商](gong-ying-shang/tian-jia-gong-ying-shang.md)
 * [商品管理](shang-pin-guan-li.md)
-  * 商品分类
+  * [商品分类](shang-pin-guan-li/shang-pin-fen-lei.md)
 * [商品进销存管理](商品进销存管理.md)
   * [商品信息](商品信息.md)
   * [库存信息](库存信息.md)
