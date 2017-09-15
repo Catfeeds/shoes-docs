@@ -22,6 +22,7 @@
 * [商品管理](shang-pin-guan-li.md)
   * [分类](shang-pin-guan-li/shang-pin-fen-lei.md)
   * [品牌](shang-pin-guan-li/pin-pai.md)
+  * [商品](shang-pin-guan-li/shang-pin.md)
 * [商品进销存管理](商品进销存管理.md)
   * [商品信息](商品信息.md)
   * [库存信息](库存信息.md)
