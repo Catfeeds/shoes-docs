@@ -29,7 +29,7 @@
   * [零售单](shang-pin-guan-li/ling-shou/chuang-jian-ling-shou-dan.md)
   * [零售流程（手动创建）](shang-pin-guan-li/ling-shou/ling-shou-liu-cheng.md)
   * [返修单](shang-pin-guan-li/ling-shou/fan-xiu-dan.md)
-  * [返修流程（手动创建）](shang-pin-guan-li/ling-shou/fan-xiu-ff08-tui-huo-ff09-liu-cheng.md)
+  * [返修流程](shang-pin-guan-li/ling-shou/fan-xiu-ff08-tui-huo-ff09-liu-cheng.md)
 * [微信](微信.md)
 * [营销](营销.md)
 * [快递](快递.md)
