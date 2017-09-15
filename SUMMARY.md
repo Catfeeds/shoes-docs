@@ -12,14 +12,15 @@
 * [客户](ke-hu.md)
   * [添加分类](ke-hu/fen-lei.md)
   * [手动添加客户](ke-hu/tian-jia-ke-hu.md)
-* [经销商](jing-xiao-shang.md)
+* [经销商（批发商）](jing-xiao-shang.md)
   * [级别](jing-xiao-shang/tian-jia-ji-bie.md)
   * [区域](jing-xiao-shang/qu-yu.md)
   * [添加经销商](jing-xiao-shang/tian-jia-jing-xiao-shang.md)
 * [供应商](gong-ying-shang.md)
   * [分类](gong-ying-shang/fen-lei.md)
   * [添加供应商](gong-ying-shang/tian-jia-gong-ying-shang.md)
-* 商品管理
+* [商品管理](shang-pin-guan-li.md)
+  * 商品分类
 * [商品进销存管理](商品进销存管理.md)
   * [商品信息](商品信息.md)
   * [库存信息](库存信息.md)
