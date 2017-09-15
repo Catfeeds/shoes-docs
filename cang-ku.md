@@ -18,5 +18,5 @@
 
 点击左边导航【仓库管理】—【仓库管理】，针对每一个仓库，指定在该仓库上班的仓管人员\(参考【[添加员工](/员工信息.md)】\)，点击【仓管人员】，如下图：
 
-![](/assets/ckgl-ckgl-cgry-1.png)
+![](/assets/ckgl-ckgl-cgry-1.png)![](/assets/ckgl-ckgl-cgry-2.png)
 
