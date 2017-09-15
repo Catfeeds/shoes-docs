@@ -12,5 +12,5 @@
 
 点击左边导航【仓库管理】—【仓库管理】，针对每一个仓库，指定该仓库可用的门店，如下图：
 
-![](/assets/ckgl-ckgl-md.png)
+![](/assets/ckgl-ckgl-md-1.png)![](/assets/ckgl-ckgl-md-2.png)
 
