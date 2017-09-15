@@ -25,7 +25,7 @@
   * [品牌](shang-pin-guan-li/pin-pai.md)
   * [商品](shang-pin-guan-li/shang-pin.md)
 * [零售](shang-pin-guan-li/ling-shou.md)
-  * [创建零售单](shang-pin-guan-li/ling-shou/chuang-jian-ling-shou-dan.md)
+  * [零售单](shang-pin-guan-li/ling-shou/chuang-jian-ling-shou-dan.md)
 * [微信](微信.md)
 * [营销](营销.md)
 * [快递](快递.md)
