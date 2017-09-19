@@ -33,6 +33,7 @@
 * [订货](ding-huo.md)
   * [订货单](ding-huo/ding-huo-dan.md)
   * [订货流程](ding-huo/ding-huo-liu-cheng.md)
+  * [返修单](ding-huo/fan-xiu-dan.md)
 * [库存管理](chu-ru-ku-guan-li.md)
   * [入库](chu-ru-ku-guan-li/ru-ku.md)
   * [出库](chu-ru-ku-guan-li/chu-ku.md)
