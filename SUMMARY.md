@@ -35,13 +35,15 @@
   * [订货流程](ding-huo/ding-huo-liu-cheng.md)
   * [返修单](ding-huo/fan-xiu-dan.md)
   * [返修流程](ding-huo/fan-xiu-liu-cheng.md)
+* [采购](cai-gou.md)
+  * [采购单](cai-gou/cai-gou-dan.md)
 * [库存管理](chu-ru-ku-guan-li.md)
   * [入库](chu-ru-ku-guan-li/ru-ku.md)
   * [出库](chu-ru-ku-guan-li/chu-ku.md)
+  * 采购
 * [微信](微信.md)
 * [快递](快递.md)
 * [标签管理](标签.md)
 * [云市场](云市场.md)
 * [网站管理](网站.md)
-* [通知订阅](通知订阅.md)
 
