@@ -9,5 +9,5 @@
 
 点击订单列表中的【查看】，即可查看订单的所有详情。如下图：
 
-![](/assets/cggl-cgd-2.png)\*1、此处的【单价】指的是商品资料里的【成本价】，参考【[商品管理](/shang-pin-guan-li.md)】
+![](/assets/cggl-cgd-2.png)\*1、此处的【单价】指的是商品资料里的【成本价】，参考【[商品](/shang-pin-guan-li/shang-pin.md)】
 
