@@ -37,6 +37,7 @@
   * [返修流程](ding-huo/fan-xiu-liu-cheng.md)
 * [采购](cai-gou.md)
   * [采购单](cai-gou/cai-gou-dan.md)
+  * [采购流程](cai-gou/cai-gou-liu-cheng.md)
 * [库存管理](chu-ru-ku-guan-li.md)
   * [入库](chu-ru-ku-guan-li/ru-ku.md)
   * [出库](chu-ru-ku-guan-li/chu-ku.md)
