@@ -27,7 +27,7 @@
   * [商品](shang-pin-guan-li/shang-pin.md)
 * [零售](shang-pin-guan-li/ling-shou.md)
   * [零售单](shang-pin-guan-li/ling-shou/chuang-jian-ling-shou-dan.md)
-  * [零售流程（手动创建）](shang-pin-guan-li/ling-shou/ling-shou-liu-cheng.md)
+  * [零售流程](shang-pin-guan-li/ling-shou/ling-shou-liu-cheng.md)
   * [返修单](shang-pin-guan-li/ling-shou/fan-xiu-dan.md)
   * [返修流程](shang-pin-guan-li/ling-shou/fan-xiu-ff08-tui-huo-ff09-liu-cheng.md)
 * [库存管理](chu-ru-ku-guan-li.md)
