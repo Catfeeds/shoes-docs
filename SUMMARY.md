@@ -30,6 +30,7 @@
   * [零售流程](shang-pin-guan-li/ling-shou/ling-shou-liu-cheng.md)
   * [返修单](shang-pin-guan-li/ling-shou/fan-xiu-dan.md)
   * [返修流程](shang-pin-guan-li/ling-shou/fan-xiu-ff08-tui-huo-ff09-liu-cheng.md)
+* [订货](ding-huo.md)
 * [库存管理](chu-ru-ku-guan-li.md)
   * [入库](chu-ru-ku-guan-li/ru-ku.md)
   * [出库](chu-ru-ku-guan-li/chu-ku.md)
@@ -39,9 +40,4 @@
 * [云市场](云市场.md)
 * [网站管理](网站.md)
 * [通知订阅](通知订阅.md)
-* [数据管理](数据管理.md)
-  * [订单数据管理](订单数据管理.md)
-  * [财务数据管理](财务数据管理.md)
-  * [库存报表](库存报表.md)
-  * [外部数据导入](数据导入.md)
 
