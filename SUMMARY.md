@@ -31,6 +31,7 @@
   * [返修单](shang-pin-guan-li/ling-shou/fan-xiu-dan.md)
   * [返修流程](shang-pin-guan-li/ling-shou/fan-xiu-ff08-tui-huo-ff09-liu-cheng.md)
 * [订货](ding-huo.md)
+  * [订货单](ding-huo/ding-huo-dan.md)
 * [库存管理](chu-ru-ku-guan-li.md)
   * [入库](chu-ru-ku-guan-li/ru-ku.md)
   * [出库](chu-ru-ku-guan-li/chu-ku.md)
