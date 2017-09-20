@@ -40,6 +40,7 @@
   * [采购流程](cai-gou/cai-gou-liu-cheng.md)
   * [返修单](cai-gou/fan-xiu-dan.md)
   * [返修流程](cai-gou/fan-xiu-liu-cheng.md)
-* [微信](微信.md)
+* [库存管理](ku-cun-guan-li.md)
 * [标签管理](标签.md)
+* [微信](微信.md)
 
