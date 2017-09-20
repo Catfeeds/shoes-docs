@@ -41,8 +41,5 @@
   * [返修单](cai-gou/fan-xiu-dan.md)
   * [返修流程](cai-gou/fan-xiu-liu-cheng.md)
 * [微信](微信.md)
-* [快递](快递.md)
 * [标签管理](标签.md)
-* [云市场](云市场.md)
-* [网站管理](网站.md)
 
