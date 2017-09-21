@@ -1,2 +1,2 @@
-商品市场是获取商品信息的重要渠道，这里可以获取上级供应商开放出来的商品基础信息，可以加入或更新自己的系统商品库。拉取商品信息之前必须要绑定账户（参考【[绑定账户](/yun-shi-chang/di-yi-bu-ff1a-bang-ding-zhang-hu.md)】）
+，之前必须要绑定账户（参考【[绑定账户](/yun-shi-chang/di-yi-bu-ff1a-bang-ding-zhang-hu.md)】）
 
