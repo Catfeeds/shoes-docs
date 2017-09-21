@@ -6,5 +6,15 @@
 
 点击左边导航【仓库管理】—【调货管理】，点击【创建调货单】，如下图： ![](/assets/cjkcdhd-1.png)
 
-然后，根据实际情况，选择好出库仓和入库仓，分别点击【选择】![](/assets/cjkcdhd-2.png)![](/assets/cjkcdhd-3.png)
+然后，根据实际情况，选择好出库仓和入库仓，分别点击【选择】![](/assets/cjkcdhd-2.png)
+
+点击选择后，系统弹出选择仓库对话框，选择正确的仓库![](/assets/cjkcdhd-3.png)
+
+选择好仓库后，添加需要调货的商品，点击【选择商品】：![](/assets/cjkcdhd-4.png)
+
+系统自动弹出选择商品对话框![](/assets/cjkcdhd-5.png)
+
+输入关键字后点击【搜索】![](/assets/cjcgd-3.png)
+
+系统自动弹出选择对话框，如下图：![](/assets/sdcjrkd-3.png)
 
