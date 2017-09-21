@@ -51,7 +51,7 @@
   * [查看库存](ku-cun-guan-li/cha-kan-ku-cun.md)
 * [云市场](yun-shi-chang.md)
   * [绑定账户](yun-shi-chang/di-yi-bu-ff1a-bang-ding-zhang-hu.md)
-  * 商品市场
+  * [商品市场](yun-shi-chang/shang-pin-shi-chang.md)
 * [标签管理](标签.md)
 * [微信](微信.md)
 
