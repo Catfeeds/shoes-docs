@@ -46,6 +46,7 @@
     * [扫码枪入库](ku-cun-guan-li/ru-ku-dan/sao-ma-qiang-ru-ku.md)
   * [出库单](ku-cun-guan-li/chu-ku-dan.md)
     * [手动创建](ku-cun-guan-li/chu-ku-dan/shou-dong-chuang-jian.md)
+  * [调货](ku-cun-guan-li/diao-huo.md)
 * [标签管理](标签.md)
 * [微信](微信.md)
 
