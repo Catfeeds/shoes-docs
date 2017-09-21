@@ -1,2 +1,2 @@
-，之前必须要绑定账户（参考【[绑定账户](/yun-shi-chang/di-yi-bu-ff1a-bang-ding-zhang-hu.md)】）
+云市场的订货单是以您绑定账户的手机号为准，在上级供应商处创建的订货单，这里将列出您在上级供应商所有的订货单，并且可以在这里直接同步单据上的商品，并直接入库。在这之前必须要绑定账户（参考【[绑定账户](/yun-shi-chang/di-yi-bu-ff1a-bang-ding-zhang-hu.md)】）
 
