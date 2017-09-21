@@ -44,6 +44,7 @@
   * [入库单](ku-cun-guan-li/ru-ku-dan.md)
     * [手动创建](ku-cun-guan-li/ru-ku-dan/shou-dong-chuang-jian.md)
     * [扫码枪入库](ku-cun-guan-li/ru-ku-dan/sao-ma-qiang-ru-ku.md)
+    * [订货入库](ku-cun-guan-li/ru-ku-dan/ding-huo-ru-ku.md)
   * [出库单](ku-cun-guan-li/chu-ku-dan.md)
     * [手动创建](ku-cun-guan-li/chu-ku-dan/shou-dong-chuang-jian.md)
   * [调货](ku-cun-guan-li/diao-huo.md)
