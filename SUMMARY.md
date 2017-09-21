@@ -49,6 +49,7 @@
   * [调货](ku-cun-guan-li/diao-huo.md)
   * [盘点](ku-cun-guan-li/pan-dian.md)
   * [查看库存](ku-cun-guan-li/cha-kan-ku-cun.md)
+* [云市场](yun-shi-chang.md)
 * [标签管理](标签.md)
 * [微信](微信.md)
 
