@@ -50,7 +50,8 @@
   * [盘点](ku-cun-guan-li/pan-dian.md)
   * [查看库存](ku-cun-guan-li/cha-kan-ku-cun.md)
 * [云市场](yun-shi-chang.md)
-  * [第一步：绑定账户](yun-shi-chang/di-yi-bu-ff1a-bang-ding-zhang-hu.md)
+  * [绑定账户](yun-shi-chang/di-yi-bu-ff1a-bang-ding-zhang-hu.md)
+  * 商品市场
 * [标签管理](标签.md)
 * [微信](微信.md)
 
