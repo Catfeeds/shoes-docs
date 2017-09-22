@@ -12,7 +12,7 @@
   * [微商城](wei-xin-shang-cheng.md)
   * [微信和多微信与企业微信](wei-xin-he-qi-ye-wei-xin.md)
 * [客户](ke-hu.md)
-  * [添加分类](ke-hu/fen-lei.md)
+  * [分类](ke-hu/fen-lei.md)
   * [添加客户](ke-hu/tian-jia-ke-hu.md)
 * [经销商（批发商）](jing-xiao-shang.md)
   * [级别](jing-xiao-shang/tian-jia-ji-bie.md)
