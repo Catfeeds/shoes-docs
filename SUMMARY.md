@@ -55,5 +55,6 @@
   * [商品市场](yun-shi-chang/shang-pin-shi-chang.md)
   * [订货单](yun-shi-chang/ding-huo-dan.md)
 * [微信](微信.md)
+  * [设置公众号客服](微信/she-zhi-gong-zhong-hao-ke-fu.md)
 * [标签管理](标签.md)
 
