@@ -10,7 +10,7 @@
   * [收款账户](cai-wu-zi-liao/shou-kuan-zhang-hu.md)
   * [快递基础](kuai-di-ji-chu.md)
   * [微商城](wei-xin-shang-cheng.md)
-  * [微信和企业微信](wei-xin-he-qi-ye-wei-xin.md)
+  * [微信和多微信与企业微信](wei-xin-he-qi-ye-wei-xin.md)
 * [客户](ke-hu.md)
   * [添加分类](ke-hu/fen-lei.md)
   * [手动添加客户](ke-hu/tian-jia-ke-hu.md)
