@@ -14,13 +14,17 @@
 
 ![](/assets/weixin-4.jpg)
 
+
+
 点击详情查看
 
-![](/assets/o.jpg)
+![](/assets/weixin-5.jpg)
 
 
 
+点击【接受邀请】
 
+![](/assets/r.jpg)
 
 ### 4、客服用微信扫描二维码登录聊天界面
 
