@@ -59,4 +59,5 @@
 * [打印](标签.md)
   * [商品标签](标签/shang-pin-biao-qian.md)
 * [微商城](ke-hu-shang-cheng.md)
+  * [零售商城](ke-hu-shang-cheng/ling-shou-shang-cheng.md)
 
